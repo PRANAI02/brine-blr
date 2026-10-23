@@ -1,0 +1,12 @@
+.vercel
+
+# added for GitHub
+node_modules
+.next
+out
+dist
+.env
+.env*.local
+.DS_Store
+.vercel
+*.tsbuildinfo
